@@ -4,6 +4,9 @@ import (
 	"fmt"
 )
 
+// ** There are ONLY boolean constants, rune constants, integer constants, **//
+// ** floating-point constants, complex constants, and string constants. **//
+
 func main() {
 	// Constants need a value on initialize
 	const days int = 7
